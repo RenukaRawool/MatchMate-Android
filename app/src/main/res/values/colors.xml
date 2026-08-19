@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="white_87">#DEFFFFFF</color>
+
+    <color name="primary_burgundy">#7A1F3B</color>
+    <color name="primary_burgundy_dark">#5C1730</color>
+
+    <color name="status_accepted">#2E7D32</color>
+    <color name="status_declined">#C62828</color>
+    <color name="status_accepted_bg">#E8F5E9</color>
+    <color name="status_declined_bg">#FFEBEE</color>
+    <color name="status_accepted_ripple">#332E7D32</color>
+    <color name="status_declined_ripple">#33C62828</color>
+    <color name="decline_stroke_light">#E0E0E0</color>
+
+    <color name="chip_unselected_bg">#F0F0F0</color>
+    <color name="chip_unselected_text">#424242</color>
+    <color name="photo_chip_bg">#40FFFFFF</color>
+    <color name="verified_badge_bg">#99000000</color>
+
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="background_light">#FAFAFA</color>
+    <color name="card_background">#FFFFFFFF</color>
+</resources>

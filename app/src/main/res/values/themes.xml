@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.MatchMate" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary_burgundy</item>
+        <item name="android:statusBarColor">@color/primary_burgundy</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorPrimaryDark">@color/primary_burgundy_dark</item>
+        <item name="colorAccent">@color/primary_burgundy</item>
+    </style>
+</resources>

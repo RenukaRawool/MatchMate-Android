@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MatchMate</string>
+    <string name="name_age_format">%1$s %2$s, %3$d, %4$s</string>
+    <string name="action_accept">Accept</string>
+    <string name="action_decline">Decline</string>
+    <string name="status_accepted">Member Accepted</string>
+    <string name="status_declined">Member Declined</string>
+    <string name="profile_picture_description">Profile picture</string>
+    <string name="empty_state_message">No matches yet. Pull to refresh once you\'re back online.</string>
+    <string name="action_retry">Retry</string>
+    <string name="loading_message">Finding your matches…</string>
+    <string name="error_message">Couldn\'t load matches. Check your connection and try again.</string>
+
+    <string name="filter_all">All</string>
+    <string name="filter_pending">Pending</string>
+    <string name="filter_accepted">Accepted</string>
+    <string name="filter_declined">Declined</string>
+
+    <string name="verified_badge">Verified</string>
+    <string name="details_row_format">%1$s • %2$s • %3$s</string>
+    <string name="filtered_empty_format">No %1$s matches yet.</string>
+</resources>
