@@ -67,3 +67,12 @@ The Random User API only returns generic identity data — it has no concept of 
 | "Verified" badge | Randomly generated (~70% of profiles) |
 
 These fields exist purely to make the UI (profession/location chips, the details row, the verified badge) feel like a real matrimonial profile — they carry no other logic or meaning in the app and are not meant to represent real user data.
+
+
+## 📱 Screenshots
+
+<p align="center">
+  <img src="screenshots/pending.jpg" width="250"/>
+  <img src="screenshots/accepted.jpg" width="250"/>
+  <img src="screenshots/decline.jpg" width="250"/>
+</p>
